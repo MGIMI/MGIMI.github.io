@@ -19,7 +19,7 @@ title: 研究所員
 
 加堂 大輔, 准教授,博士（理学）/ Daisuke Kadoh, Associate Professor, Ph.D. in Science
 
-亀田 達也, 教授, Tatsuya Kameda, Professor, Doctor of Philosophy(米国)
+亀田 達也, 教授, Tatsuya Kameda, Professor, Doctor of Philosophy
 
 川島 誠, 専任講師, 博士（理学）/ Makoto Kawashima, Ph.D. in Science
 
