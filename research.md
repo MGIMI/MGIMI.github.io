@@ -5,9 +5,6 @@ title: 研究紹介
 
 # 研究紹介
 <img src="assets/images/研究紹介（サンプル）v250319.png" width="160" height="90" alt="テスト" title="サンプル">
-[研究紹介（様式）v250305.pdf](https://github.com/user-attachments/files/19330628/v250305.pdf)
-
-
 
 ## 数式が使えるかのテスト
 これはインラインでの数式$E=mc^2$です。
