@@ -15,21 +15,21 @@ title: 研究所員
 
 太田 和俊, 教授, 博士（理学）/ Kazutoshi Ohta, Professor, Ph.D. in Science
 
-小串 典子, 准教授,博士（工学）/ Fumiko Ogushi, Associate Professor, Ph.D. in Engineering
+小串 典子, 准教授, 博士（工学）/ Fumiko Ogushi, Associate Professor, Ph.D. in Engineering
 
-加堂 大輔, 准教授,博士（理学）/ Daisuke Kadoh, Associate Professor, Ph.D. in Science
+加堂 大輔, 准教授, 博士（理学）/ Daisuke Kadoh, Associate Professor, Ph.D. in Science
 
-亀田 達也, 教授, Tatsuya Kameda, Professor, Doctor of Philosophy
+亀田 達也, 教授, 博士（心理学）/ Tatsuya Kameda, Professor, Doctor of Philosophy
 
-川島 誠, 専任講師, 博士（理学）/ Makoto Kawashima, Ph.D. in Science
+川島 誠, 准教授, 博士（理学）/ Makoto Kawashima, Ph.D. in Science
 
 酒井 一博, 教授, 博士（理学）/ Kazuhiro SakaiProfessor, Ph.D. in Science
 
-佐々木 博昭, 准教授,博士（工学）/ Hiroaki Sasaki, Associate Professor, Ph.D. in Engineering
+佐々木 博昭, 教授, 博士（工学）/ Hiroaki Sasaki, Associate Professor, Ph.D. in Engineering
 
 永田 毅, 教授, 博士（理学）/ Takeshi Nagata, Professor, Ph.D. in Science
 
-宮寺 隆之, 教授, 博士（学術）/ Takayuki Miyadera, Professor, 
+宮寺 隆之, 教授, 博士（学術）/ Takayuki Miyadera, Professor, Doctor of Philosophy
 
 和田 康孝, 教授, 博士（工学）/ Yasutaka Wada, Professor, Ph.D. in Engineering
 
