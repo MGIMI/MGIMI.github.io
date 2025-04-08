@@ -23,7 +23,7 @@ title: 研究所員
 
 川島 誠, 准教授, 博士（理学）/ Makoto Kawashima, Ph.D. in Science
 
-酒井 一博, 教授, 博士（理学）/ Kazuhiro SakaiProfessor, Ph.D. in Science
+酒井 一博, 教授, 博士（理学）/ Kazuhiro Sakai, Professor, Doctor of Science
 
 佐々木 博昭, 教授, 博士（工学）/ Hiroaki Sasaki, Associate Professor, Ph.D. in Engineering
 
