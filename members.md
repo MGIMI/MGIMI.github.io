@@ -37,11 +37,11 @@ title: 研究所員
 
 和田 康孝, 教授, 博士（工学）/ Yasutaka Wada, Professor, Ph.D. in Engineering
 
-# 名誉教授（学部関連）
-
 # 助手
 田中 豪太, 助手, 博士（理学）/ Gota Tanaka, Assistant, Doctor of Philosophy in Science
 
 # 専門研究員
 
 # 研究員
+
+# 名誉教授（学部関連）
