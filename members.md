@@ -17,6 +17,8 @@ title: 研究所員
 
 小串 典子, 准教授, 博士（工学）/ Fumiko Ogushi, Associate Professor, Ph.D. in Engineering
 
+粕谷 美里, 助教, 博士（工学）/ Misato Kasuya, Assistant Professor, Ph.D. in Engineering
+
 加堂 大輔, 准教授, 博士（理学）/ Daisuke Kadoh, Associate Professor, Ph.D. in Science
 
 亀田 達也, 教授, 博士（心理学）/ Tatsuya Kameda, Professor, Doctor of Philosophy
