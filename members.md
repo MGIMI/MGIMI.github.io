@@ -7,11 +7,11 @@ title: 研究所員
 
 穴田 啓晃, 教授, 博士（情報学）/ Hiroaki Anada, Professor, Ph.D. in Informatics
 
-阿部 香澄,准教授,博士（工学）/ Kasumi Abe, Associate Professor, Ph.D. in Engineering
+阿部 香澄, 准教授,博士（工学）/ Kasumi Abe, Associate Professor, Ph.D. in Engineering
 
 稲葉 真理, 教授, 博士（理学）/ Mary Inaba, Professor, Ph.D. in Science
 
-今井 浩,教授, 工学博士/ Hiroshi Imai, Professor, Doctor of Engineering
+今井 浩, 教授, 工学博士/ Hiroshi Imai, Professor, Doctor of Engineering
 
 太田 和俊, 教授, 博士（理学）/ Kazutoshi Ohta, Professor, Ph.D. in Science
 
