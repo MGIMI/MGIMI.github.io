@@ -31,11 +31,14 @@ title: 研究所員
 
 宮寺 隆之, 教授, 博士（学術）/ Takayuki Miyadera, Professor, Doctor of Philosophy
 
+山田 敏史, 助教, 博士（理学）/ Toshifumi Yamada, Assistant Professor, Ph.D. in Science
+
 和田 康孝, 教授, 博士（工学）/ Yasutaka Wada, Professor, Ph.D. in Engineering
 
 # 名誉教授（学部関連）
 
 # 助手
+田中 豪太, 助手, 博士（理学）/ Gota Tanaka, Assistant, Doctor of Philosophy in Science
 
 # 専門研究員
 
