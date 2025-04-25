@@ -5,7 +5,7 @@ layout: default
 # Institute Blog
 
 <dl>
-  {% for post in site.posts %}
+  {% for post in site.posts limit:7 %}
     <dt>{{ post.date　| date: "%Y年%m月%d日" }}</dt>
     <dd>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
