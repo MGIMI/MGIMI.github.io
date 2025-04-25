@@ -5,7 +5,6 @@ title: 研究紹介
 
 # 研究紹介
 
-![(researches/研究紹介（サンプル）v250319.png)](researches/研究紹介（サンプル）v250319.pdf)
 <a href="researches/研究紹介（サンプル）v250319.pdf"><img src="researches/研究紹介（サンプル）v250319.png" width="320" height="180" alt="テスト" title="サンプル"></a>
 <a href="researches/研究紹介（サンプル）v250319.pdf"><img src="researches/研究紹介（サンプル）v250319.png" width="320" height="180" alt="テスト" title="サンプル"></a>
 <a href="researches/研究紹介（サンプル）v250319.pdf"><img src="researches/研究紹介（サンプル）v250319.png" width="320" height="180" alt="テスト" title="サンプル"></a>
