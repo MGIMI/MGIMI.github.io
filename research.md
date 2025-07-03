@@ -22,72 +22,72 @@ title: 研究紹介
 </style>
 
 <a href="researches/r_anada_v250702.pdf" class="exampleXX">
-    <div>穴田啓晃教授</div>
+    穴田啓晃教授
     <img src="researches/r_anada_v250702.png" alt="">
 </a>
 
 <a href="researches/r_abe_v250702.pdf" class="exampleXX">
-    <div>阿部香澄准教授</div>
+    阿部香澄准教授
     <img src="researches/r_abe_v250702.png" alt="">
 </a>
 
 <a href="researches/r_ohta_v250702.pdf" class="exampleXX">
-    <div>太田和俊教授</div>
+    太田和俊教授
     <img src="researches/r_ohta_v250702.png" alt="">
 </a>
 
 <a href="researches/r_ogushi_v250702.pdf" class="exampleXX">
-    <div>小串典子准教授</div>
+    小串典子准教授
     <img src="researches/r_ogushi_v250702.png" alt="">
 </a>
 
 <a href="researches/r_kasuya_v250702.pdf" class="exampleXX">
-    <div>粕谷美里助教</div>
+    粕谷美里助教
     <img src="researches/r_kasuya_v250702.png" alt="">
 </a>
 
 <a href="researches/r_kadoh_v250702.pdf" class="exampleXX">
-    <div>加堂大輔准教授</div>
+    加堂大輔准教授
     <img src="researches/r_kadoh_v250702.png" alt="">
 </a>
 
 <a href="researches/r_kameda_v250702.pdf" class="exampleXX">
-    <div>亀田達也教授</div>
+    亀田達也教授
     <img src="researches/r_kameda_v250702.png" alt="">
 </a>
 
 <a href="researches/r_kawashima_v250702.pdf" class="exampleXX">
-    <div>川島誠准教授</div>
+    川島誠准教授
     <img src="researches/r_kawashima_v250702.png" alt="">
 </a>
 
 <a href="researches/r_sakai_v250702.pdf" class="exampleXX">
-    <div>酒井一博教授</div>
+    酒井一博教授
     <img src="researches/r_sakai_v250702.png" alt="">
 </a>
 
 <a href="researches/r_sasaki_v250702.pdf" class="exampleXX">
-    <div>佐々木博昭教授</div>
+    佐々木博昭教授
     <img src="researches/r_sasaki_v250702.png" alt="">
 </a>
 
 <a href="researches/r_nagata_v250702.pdf" class="exampleXX">
-    <div>永田毅教授</div>
+    永田毅教授
     <img src="researches/r_nagata_v250702.png" alt="">
 </a>
 
 <a href="researches/r_miyadera_v250702.pdf" class="exampleXX">
-    <div>宮寺隆之教授</div>
+    宮寺隆之教授
     <img src="researches/r_miyadera_v250702.png" alt="">
 </a>
 
 <a href="researches/r_yamada_v250702.pdf" class="exampleXX">
-    <div>山田敏史助教</div>
+    山田敏史助教
     <img src="researches/r_yamada_v250702.png" alt="">
 </a>
 
 <a href="researches/r_wada_v250702.pdf" class="exampleXX">
-    <div>和田康孝教授</div>
+    和田康孝教授
     <img src="researches/r_wada_v250702.png" alt="">
 </a>
 
