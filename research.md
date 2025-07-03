@@ -9,7 +9,7 @@ title: 研究紹介
 .exampleXX{
     display: block;
     background: #cfe3f0;
-    width: 300px;
+    width:fit-content;
     padding-bottom: 5px;
 }
 .exampleXX img{
