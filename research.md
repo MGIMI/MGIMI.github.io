@@ -22,72 +22,72 @@ title: 研究紹介
 </style>
 
 <a href="researches/r_anada_v250702.pdf" class="exampleXX">
-    穴田啓晃教授
+    <br>穴田啓晃教授</br>
     <img src="researches/r_anada_v250702.png" alt="">
 </a>
 
 <a href="researches/r_abe_v250702.pdf" class="exampleXX">
-    阿部香澄准教授
+    <br>阿部香澄准教授</br>
     <img src="researches/r_abe_v250702.png" alt="">
 </a>
 
 <a href="researches/r_ohta_v250702.pdf" class="exampleXX">
-    太田和俊教授
+    <br>太田和俊教授</br>
     <img src="researches/r_ohta_v250702.png" alt="">
 </a>
 
 <a href="researches/r_ogushi_v250702.pdf" class="exampleXX">
-    小串典子准教授
+    <br>小串典子准教授</br>
     <img src="researches/r_ogushi_v250702.png" alt="">
 </a>
 
 <a href="researches/r_kasuya_v250702.pdf" class="exampleXX">
-    粕谷美里助教
+    <br>粕谷美里助教</br>
     <img src="researches/r_kasuya_v250702.png" alt="">
 </a>
 
 <a href="researches/r_kadoh_v250702.pdf" class="exampleXX">
-    加堂大輔准教授
+    <br>加堂大輔准教授</br>
     <img src="researches/r_kadoh_v250702.png" alt="">
 </a>
 
 <a href="researches/r_kameda_v250702.pdf" class="exampleXX">
-    亀田達也教授
+    <br>亀田達也教授</br>
     <img src="researches/r_kameda_v250702.png" alt="">
 </a>
 
 <a href="researches/r_kawashima_v250702.pdf" class="exampleXX">
-    川島誠准教授
+    <br>川島誠准教授</br>
     <img src="researches/r_kawashima_v250702.png" alt="">
 </a>
 
 <a href="researches/r_sakai_v250702.pdf" class="exampleXX">
-    酒井一博教授
+    <br>酒井一博教授</br>
     <img src="researches/r_sakai_v250702.png" alt="">
 </a>
 
 <a href="researches/r_sasaki_v250702.pdf" class="exampleXX">
-    佐々木博昭教授
+    <br>佐々木博昭教授</br>
     <img src="researches/r_sasaki_v250702.png" alt="">
 </a>
 
 <a href="researches/r_nagata_v250702.pdf" class="exampleXX">
-    永田毅教授
+    <br>永田毅教授</br>
     <img src="researches/r_nagata_v250702.png" alt="">
 </a>
 
 <a href="researches/r_miyadera_v250702.pdf" class="exampleXX">
-    宮寺隆之教授
+    <br>宮寺隆之教授</br>
     <img src="researches/r_miyadera_v250702.png" alt="">
 </a>
 
 <a href="researches/r_yamada_v250702.pdf" class="exampleXX">
-    山田敏史助教
+    <br>山田敏史助教</br>
     <img src="researches/r_yamada_v250702.png" alt="">
 </a>
 
 <a href="researches/r_wada_v250702.pdf" class="exampleXX">
-    和田康孝教授
+    <br>和田康孝教授</br>
     <img src="researches/r_wada_v250702.png" alt="">
 </a>
 
