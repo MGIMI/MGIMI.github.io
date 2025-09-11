@@ -22,7 +22,7 @@ title: 出版物
 </style>
 
 <a href="publications/report-2024_v250814.pdf" class="exampleXX">
-    穴田啓晃教授
+    2024
     <br>
     <img src="publications/report-2024_v250814.png" alt="">
 </a>
