@@ -81,6 +81,12 @@ title: 研究紹介
     <img src="researches/r_sasaki_v250702.png" alt="">
 </a>
 
+<a href="researches/r_tanaka_v251011.pdf" class="exampleXX">
+    田中豪太助手
+    <br>
+    <img src="researches/r_tanaka_v251011.png" alt="">
+</a>
+
 <a href="researches/r_nagata_v250702.pdf" class="exampleXX">
     永田毅教授
     <br>
