@@ -43,5 +43,12 @@ title: 研究所員
 # 専門研究員
 
 # 研究員
+宗 博人, 研究員, 理学博士/ Hiroto So, Researcher, Doctor of Science
 
-# 名誉教授（学部関連）
+平木 敬, 客員教授, 理学博士/ Kei Hiraki, Visiting Professor, Doctor of Science
+
+松浦 壮, 教授（慶應義塾大学商学部）, 博士（理学）/ So Mastuura, Professor, Ph.D. in Science
+
+村田 玲音, 客員教授, 理学博士/ Leo Murata, Visiting Professor, Doctor of Science
+
+吉田 豊, 専任講師（明治学院大学法学部）, 博士（理学）/ Yutaka Yoshida, Junior Associate ProfessorPh.D. in Science
