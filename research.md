@@ -33,6 +33,12 @@ title: 研究紹介
     <img src="researches/r_abe_v250702.png" alt="">
 </a>
 
+<a href="researches/r_imai_v260510.pdf" class="exampleXX">
+    今井浩教授
+    <br>
+    <img src="researches/r_imai_v260510.png" alt="">
+</a>
+
 <a href="researches/r_ohta_v250702.pdf" class="exampleXX">
     太田和俊教授
     <br>
