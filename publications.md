@@ -20,6 +20,11 @@ title: 出版物
     text-align: center;
 }
 </style>
+<a href="publications/report_2025.pdf" class="exampleXX">
+    2025
+    <br>
+    <img src="publications/report_2025.png" alt="">
+</a>
 
 <a href="publications/report-2024_v250814.pdf" class="exampleXX">
     2024
